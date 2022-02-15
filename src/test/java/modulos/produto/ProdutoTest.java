@@ -30,7 +30,7 @@ public class ProdutoTest {
         // Configurando os dados da API Rest da Lojinha
         baseURI = "http://165.227.93.41";
         //port = 80;
-        basePath = "/lojinha";
+        basePath = "/lojinha-bugada";
 
 
 
